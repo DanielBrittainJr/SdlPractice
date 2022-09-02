@@ -1,6 +1,4 @@
-﻿  main.cpp
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(700,5): error MSB6006: "CL.exe" exited with code 2.
-F:\dev\cpp\SdlEngine\SdlEngine\main.cpp(31,5): error C2660: 'init': function does not take 6 arguments
-F:\dev\cpp\SdlEngine\SdlEngine\main.cpp(7,6): message : see declaration of 'init'
-F:\dev\cpp\SdlEngine\SdlEngine\main.cpp(67,6): error C2084: function 'void render(void)' already has a body
-F:\dev\cpp\SdlEngine\SdlEngine\main.cpp(8): message : see previous definition of 'render'
+﻿  Game.cpp
+  main.cpp
+  Generating Code...
+  SdlEngine.vcxproj -> F:\dev\cpp\SdlEngine\SdlEngine\x64\Debug\SdlEngine.exe
